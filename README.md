@@ -1,5 +1,3 @@
-### Hi there 👋
-
 "Acta Non Verba"
 
 I did not believe in the great Spaghetti Monster until I had to change legacy code.
